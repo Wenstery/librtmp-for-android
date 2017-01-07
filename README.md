@@ -1,4 +1,4 @@
-# librtmp-android
+# librtmp-for-android
 
 Easy to build librtmp for android from rtmpdump.You can get the latest source here:
 
