@@ -16,7 +16,7 @@ Build steps:
 
 As a result,librtmp.so,libssl.so and libcrypto.so will be created in dir android/jni/libs.
    
-libcrypto.so and libssl.so is the dependencies of librtmp.so,you can get more infomation about them here:
+libcrypto.so and libssl.so is the dependencies of librtmp.so,you can get more information about them here:
 
    https://github.com/aluvalasuman/OpenSSL1.0.1cForAndroid
    
